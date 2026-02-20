@@ -2,3 +2,5 @@ pynput
 pystray
 Pillow
 pyinstaller
+requests
+python-dotenv
